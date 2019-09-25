@@ -2,3 +2,11 @@
     box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); 
   }
 
+form h1{
+    font-size: 20pt;
+}
+
+h2{
+    color:#8F9093;
+    font-size: 11pt;
+}
